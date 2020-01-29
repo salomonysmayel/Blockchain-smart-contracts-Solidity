@@ -1,4 +1,4 @@
-# solidity_homework
+## solidity_homework
 
 In this project three ProfitSplitter contracts were created.
 
@@ -18,7 +18,7 @@ In Remix a 3 Ether transaction was schedule using the local server and the trans
 ![supply_chain](/images/f.png)
 ![supply_chain](/images/d.png)
 
-## TieredProfitSplitter
+# TieredProfitSplitter
 
 For the Tiered contract 10 Ether were transacted using the local server. 
 
@@ -36,7 +36,7 @@ After this the contracts were deployed to the Ropsten network. and the same tran
 ![supply_chain](/images/b.png)
 ![supply_chain](/images/c.png)
 
-## DeferredEquityPlan
+# DeferredEquityPlan
 
 Finally, for the deferred equity plan, time was forwarded by 1 year. The number of distributed shares the employee has is 250, as shown below.
 
