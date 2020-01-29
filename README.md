@@ -30,7 +30,7 @@ Bob's account 0x12Cb9f596aE01fE041d5e766C340b91D798891B9
 
 This transactions can also be seen on the Ganache image shown above.
 
-After this the contracts were deployed to the Ropsten network. and the same transaction were made again, after recharging ether from the faucet. Below the three images show the 10 ether deposited to the CEO, CTO and Bob. The tier distribution again was performed by the contract.
+After this the contracts were deployed to the Ropsten network. and the same transaction were made again, after recharging ether from the faucet. This time the wallets were managed in MyCrypto. Below the three images show the 10 ether deposited to the CEO, CTO and Bob. The tier distribution again was performed by the contract, so that 60%, 25% and 15% of Ether was distributed accordingly
 
 ![supply_chain](/images/a.png)
 ![supply_chain](/images/b.png)
