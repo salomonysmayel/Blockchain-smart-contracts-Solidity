@@ -6,7 +6,7 @@ In this project three ProfitSplitter contracts were created.
 AssociateProfitSplitter:  Accepts Ether into the contract and divide the Ether evenly among the associate level employees
 
 
-TieredProfitSplitter: Distributess different percentages of incoming Ether to employees at different tiers/levels.  The CEO gets paid 60%, CTO 25%, and Bob gets 15%.
+TieredProfitSplitter: Distributes different percentages of incoming Ether to employees at different tiers/levels.  The CEO gets paid 60%, CTO 25%, and Bob gets 15%.
 
 
 DeferredEquityPlan: This contract automatically manages 1000 shares with an annual distribution of 250 over 4 years for a single employee.
@@ -28,13 +28,17 @@ CTO Account 0x68d1a75A371721F16cC5117F927a957Fe96Df1F2
 
 Bob's account 0x12Cb9f596aE01fE041d5e766C340b91D798891B9
 
-Thius transactions can also be seen on the Ganache image above shown.
+This transactions can also be seen on the Ganache image shown above.
+
+After this the contracts were deployed to the Ropsten network. and the same transaction were made again, after recharging ether from the faucet. Below the three images show the 10 ether deposited to the CEO, CTO and Bob. The tier distribution again was performed by the contract.
 
 ![supply_chain](/images/a.png)
 ![supply_chain](/images/b.png)
 ![supply_chain](/images/c.png)
 
-![supply_chain](/images/e.png)
+## DeferredEquityPlan
+
+Finally, for the deferred equity plan, time was forwarded by 1 year. The number of distributed shares the employee has is 250, as shown below.
 
 ![supply_chain](/images/dist.png)
 
