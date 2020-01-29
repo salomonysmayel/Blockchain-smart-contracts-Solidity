@@ -11,8 +11,13 @@ TieredProfitSplitter: Distributess different percentages of incoming Ether to em
 
 DeferredEquityPlan: This contract automatically manages 1000 shares with an annual distribution of 250 over 4 years for a single employee.
 
+![supply_chain](/images/d.png)
+![supply_chain](/images/f.png)
 ![supply_chain](/images/a.png)
 ![supply_chain](/images/b.png)
 ![supply_chain](/images/c.png)
-![supply_chain](/images/d.png)
-![supply_chain](/images/f.png)
+
+![supply_chain](/images/e.png)
+
+![supply_chain](/images/dist.png)
+
